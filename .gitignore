@@ -1,0 +1,17 @@
+*.pyc
+.idea/*
+.vscode
+.DS_Store
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+notes
+.pytest_cache
+.coverage
+htmlcov/
+coverage.xml
+/poetry.lock
+/src/hello_app/.env
